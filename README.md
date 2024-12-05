@@ -1,0 +1,1 @@
+# GitOps-Training with ArgoCD
